@@ -632,7 +632,7 @@ es:
         not_first_order: Este cupón sólo se puede aplicar a su primer pedido.
     email: Email
     empty: Vacío
-    empty_cart: Carrito vacío
+    empty_cart: Vaciar carro
     enable_mail_delivery: Habilitar envío de email
     end: Fin
     ending_in: Termina en
@@ -693,8 +693,8 @@ es:
     general_settings: Preferencias en general
     google_analytics: Google Analytics
     google_analytics_id: ID Analytics
-    guest_checkout: Comprobación Invitado
-    guest_user_account: Comprobación como invitado
+    guest_checkout: Compra Invitado
+    guest_user_account: Compra como invitado
     has_no_shipped_units: No tiene unidades enviadas
     height: Altura
     hide_cents: Ocultar céntimos
@@ -907,7 +907,7 @@ es:
       canceled: cancelada
       cart: Carrito
       complete: completado
-      confirm: Confirmada
+      confirm: Confirmar
       considered_risky: considerado arriesgado
       delivery: Entrega
       payment: Pago
